@@ -23,7 +23,11 @@ kdinethdovindu/
     ├── moveone.svg
     ├── portfolio.svg
     ├── primecore.svg
-    └── tech-stack.svg
+    ├── tech-stack.svg
+    └── tech-logos/
+        ├── react.svg, nextjs.svg, typescript.svg, javascript.svg
+        ├── java.svg, spring-boot.svg, postgresql.svg, tailwind.svg
+        └── git.svg, github.svg, postman.svg, vercel.svg, docker.svg
 ```
 
 `header-preview.png` is optional and does not need to be uploaded.
@@ -31,7 +35,7 @@ kdinethdovindu/
 ## Design notes
 
 - Header animation is a **local GIF** (not dependent on any third-party service).
-- Project cards and tech strip are **local SVG images** (sharp at any screen size).
+- Project cards and technology icons are **local SVG images** (sharp at any screen size).
 - Social badges use `img.shields.io`; the text links in the footer remain available if those images are blocked.
 - All project/source/demo/contact destinations come from your public portfolio content or linked source repositories.
 - No GitHub statistics service is required; no secret tokens or GitHub Actions are needed.

@@ -23,7 +23,27 @@ I'm **Dineth Dovindu**, a **BSc (Hons) Information Technology & Management under
 
 ### 🧰 Tech Stack
 
-<p align="center"><img src="./assets/tech-stack.svg" width="100%" alt="React, Next.js, TypeScript, JavaScript, Java, Spring Boot, PostgreSQL, Tailwind CSS, Git and GitHub, Postman, Vercel and Docker (learning)" /></p>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="./assets/tech-logos/react.svg" width="44" height="44" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="120"><img src="./assets/tech-logos/nextjs.svg" width="44" height="44" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
+    <td align="center" width="120"><img src="./assets/tech-logos/typescript.svg" width="44" height="44" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="120"><img src="./assets/tech-logos/javascript.svg" width="44" height="44" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="120"><img src="./assets/tech-logos/java.svg" width="44" height="44" alt="Java" /><br /><sub><b>Java</b></sub></td>
+    <td align="center" width="120"><img src="./assets/tech-logos/spring-boot.svg" width="44" height="44" alt="Spring Boot" /><br /><sub><b>Spring Boot</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/tech-logos/postgresql.svg" width="44" height="44" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
+    <td align="center"><img src="./assets/tech-logos/tailwind.svg" width="44" height="44" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
+    <td align="center"><img src="./assets/tech-logos/git.svg" width="44" height="44" alt="Git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center"><img src="./assets/tech-logos/github.svg" width="44" height="44" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
+    <td align="center"><img src="./assets/tech-logos/postman.svg" width="44" height="44" alt="Postman" /><br /><sub><b>Postman</b></sub></td>
+    <td align="center"><img src="./assets/tech-logos/vercel.svg" width="44" height="44" alt="Vercel" /><br /><sub><b>Vercel</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/tech-logos/docker.svg" width="44" height="44" alt="Docker" /><br /><sub><b>Docker</b><br /><sup>learning</sup></sub></td>
+  </tr>
+</table>
 
 **Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS  
 **Backend:** Java · Spring Boot · Spring Security · REST APIs · JWT  
