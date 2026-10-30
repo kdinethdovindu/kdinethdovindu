@@ -23,32 +23,76 @@ I'm **Dineth Dovindu**, a **BSc (Hons) Information Technology & Management under
 
 ### 🧰 Tech Stack
 
-<table align="center">
+<p align="center"><em>Technologies and tools I use to build full-stack applications.</em></p>
+
+<h4 align="center">Frontend &amp; Web</h4>
+
+<table align="center" cellpadding="8" cellspacing="8">
   <tr>
-    <td align="center" width="120"><img src="./assets/tech-logos/react.svg" width="44" height="44" alt="React" /><br /><sub><b>React</b></sub></td>
-    <td align="center" width="120"><img src="./assets/tech-logos/nextjs.svg" width="44" height="44" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
-    <td align="center" width="120"><img src="./assets/tech-logos/typescript.svg" width="44" height="44" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="120"><img src="./assets/tech-logos/javascript.svg" width="44" height="44" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="120"><img src="./assets/tech-logos/java.svg" width="44" height="44" alt="Java" /><br /><sub><b>Java</b></sub></td>
-    <td align="center" width="120"><img src="./assets/tech-logos/spring-boot.svg" width="44" height="44" alt="Spring Boot" /><br /><sub><b>Spring Boot</b></sub></td>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/react.svg" width="38" height="38" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/typescript.svg" width="38" height="38" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/javascript.svg" width="38" height="38" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/html5.svg" width="38" height="38" alt="HTML5" /><br /><sub><b>HTML5</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="./assets/tech-logos/postgresql.svg" width="44" height="44" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
-    <td align="center"><img src="./assets/tech-logos/tailwind.svg" width="44" height="44" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
-    <td align="center"><img src="./assets/tech-logos/git.svg" width="44" height="44" alt="Git" /><br /><sub><b>Git</b></sub></td>
-    <td align="center"><img src="./assets/tech-logos/github.svg" width="44" height="44" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
-    <td align="center"><img src="./assets/tech-logos/postman.svg" width="44" height="44" alt="Postman" /><br /><sub><b>Postman</b></sub></td>
-    <td align="center"><img src="./assets/tech-logos/vercel.svg" width="44" height="44" alt="Vercel" /><br /><sub><b>Vercel</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./assets/tech-logos/docker.svg" width="44" height="44" alt="Docker" /><br /><sub><b>Docker</b><br /><sup>learning</sup></sub></td>
+    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/css3.svg" width="38" height="38" alt="CSS3" /><br /><sub><b>CSS3</b></sub></td>
+    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/tailwind.svg" width="38" height="38" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
+    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/nextjs.svg" width="38" height="38" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
+    <td aria-hidden="true"></td>
   </tr>
 </table>
 
-**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS  
-**Backend:** Java · Spring Boot · Spring Security · REST APIs · JWT  
-**Data:** PostgreSQL · MySQL  
-**Workflow:** Git · GitHub · Postman · Vercel · Docker *(learning)*
+<h4 align="center">Backend &amp; APIs</h4>
+
+<table align="center" cellpadding="8" cellspacing="8">
+  <tr>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/java.svg" width="38" height="38" alt="Java" /><br /><sub><b>Java</b></sub></td>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/spring-boot.svg" width="38" height="38" alt="Spring Boot" /><br /><sub><b>Spring Boot</b></sub></td>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/spring-security.svg" width="38" height="38" alt="Spring Security" /><br /><sub><b>Spring Security</b></sub></td>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><span style="font-size:25px;">JPA</span><br /><sub><b>Spring Data JPA</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><span style="font-size:25px;">API</span><br /><sub><b>REST APIs</b></sub></td>
+    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/jwt.svg" width="38" height="38" alt="JWT" /><br /><sub><b>JWT</b></sub></td>
+    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/php.svg" width="38" height="38" alt="PHP" /><br /><sub><b>PHP</b></sub></td>
+    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/python.svg" width="38" height="38" alt="Python" /><br /><sub><b>Python</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/flask.svg" width="38" height="38" alt="Flask" /><br /><sub><b>Flask</b></sub></td>
+    <td aria-hidden="true"></td><td aria-hidden="true"></td><td aria-hidden="true"></td>
+  </tr>
+</table>
+
+<h4 align="center">Databases</h4>
+
+<table align="center" cellpadding="8" cellspacing="8">
+  <tr>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/postgresql.svg" width="38" height="38" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/mysql.svg" width="38" height="38" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/mongodb.svg" width="38" height="38" alt="MongoDB" /><br /><sub><b>MongoDB</b></sub></td>
+  </tr>
+</table>
+
+<h4 align="center">Tools &amp; Platforms</h4>
+
+<table align="center" cellpadding="8" cellspacing="8">
+  <tr>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/git.svg" width="38" height="38" alt="Git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/github.svg" width="38" height="38" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/postman.svg" width="38" height="38" alt="Postman" /><br /><sub><b>Postman</b></sub></td>
+    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/junit.svg" width="38" height="38" alt="JUnit" /><br /><sub><b>JUnit</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><span style="font-size:18px;">MOCK</span><br /><sub><b>Mockito</b></sub></td>
+    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/swagger.svg" width="38" height="38" alt="Swagger / OpenAPI" /><br /><sub><b>Swagger / OpenAPI</b></sub></td>
+    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/vercel.svg" width="38" height="38" alt="Vercel" /><br /><sub><b>Vercel</b></sub></td>
+    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/figma.svg" width="38" height="38" alt="Figma" /><br /><sub><b>Figma</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/docker.svg" width="38" height="38" alt="Docker" /><br /><sub><b>Docker</b><br /><sup>learning</sup></sub></td>
+    <td aria-hidden="true"></td><td aria-hidden="true"></td><td aria-hidden="true"></td>
+  </tr>
+</table>
 
 ### 🚀 Featured Projects
 
