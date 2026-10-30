@@ -23,76 +23,49 @@ I'm **Dineth Dovindu**, a **BSc (Hons) Information Technology & Management under
 
 ### 🧰 Tech Stack
 
-<p align="center"><em>Technologies and tools I use to build full-stack applications.</em></p>
+<h4>🖥️ Frontend &amp; Web</h4>
+<p align="center">
+  <span title="React" aria-label="React" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/react.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="TypeScript" aria-label="TypeScript" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/typescript.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="JavaScript" aria-label="JavaScript" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/javascript.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="HTML5" aria-label="HTML5" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/html5.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="CSS3" aria-label="CSS3" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/css3.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="Tailwind CSS" aria-label="Tailwind CSS" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/tailwind.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="Next.js" aria-label="Next.js" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/nextjs.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+</p>
 
-<h4 align="center">Frontend &amp; Web</h4>
+<h4>⚙️ Backend &amp; APIs</h4>
+<p align="center">
+  <span title="Java" aria-label="Java" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/java.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="Spring Boot" aria-label="Spring Boot" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/spring-boot.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="Spring Security" aria-label="Spring Security" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/spring-security.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="Spring Data JPA" aria-label="Spring Data JPA" style="display:inline-block; margin:6px; padding:12px 9px; border:1px solid #303743; border-radius:12px; background:#24272e; color:#e9edf2; font-size:16px; font-weight:700;">JPA</span>
+  <span title="REST APIs" aria-label="REST APIs" style="display:inline-block; margin:6px; padding:12px 9px; border:1px solid #303743; border-radius:12px; background:#24272e; color:#e9edf2; font-size:16px; font-weight:700;">API</span>
+  <span title="JWT" aria-label="JWT" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/jwt.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="PHP" aria-label="PHP" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/php.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="Python" aria-label="Python" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/python.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="Flask" aria-label="Flask" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/flask.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+</p>
 
-<table align="center" cellpadding="8" cellspacing="8">
-  <tr>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/react.svg" width="38" height="38" alt="React" /><br /><sub><b>React</b></sub></td>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/typescript.svg" width="38" height="38" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/javascript.svg" width="38" height="38" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/html5.svg" width="38" height="38" alt="HTML5" /><br /><sub><b>HTML5</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/css3.svg" width="38" height="38" alt="CSS3" /><br /><sub><b>CSS3</b></sub></td>
-    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/tailwind.svg" width="38" height="38" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
-    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/nextjs.svg" width="38" height="38" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
-    <td aria-hidden="true"></td>
-  </tr>
-</table>
+<h4>🗄️ Databases</h4>
+<p align="center">
+  <span title="PostgreSQL" aria-label="PostgreSQL" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/postgresql.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="MySQL" aria-label="MySQL" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/mysql.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="MongoDB" aria-label="MongoDB" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/mongodb.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+</p>
 
-<h4 align="center">Backend &amp; APIs</h4>
-
-<table align="center" cellpadding="8" cellspacing="8">
-  <tr>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/java.svg" width="38" height="38" alt="Java" /><br /><sub><b>Java</b></sub></td>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/spring-boot.svg" width="38" height="38" alt="Spring Boot" /><br /><sub><b>Spring Boot</b></sub></td>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/spring-security.svg" width="38" height="38" alt="Spring Security" /><br /><sub><b>Spring Security</b></sub></td>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><span style="font-size:25px;">JPA</span><br /><sub><b>Spring Data JPA</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><span style="font-size:25px;">API</span><br /><sub><b>REST APIs</b></sub></td>
-    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/jwt.svg" width="38" height="38" alt="JWT" /><br /><sub><b>JWT</b></sub></td>
-    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/php.svg" width="38" height="38" alt="PHP" /><br /><sub><b>PHP</b></sub></td>
-    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/python.svg" width="38" height="38" alt="Python" /><br /><sub><b>Python</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/flask.svg" width="38" height="38" alt="Flask" /><br /><sub><b>Flask</b></sub></td>
-    <td aria-hidden="true"></td><td aria-hidden="true"></td><td aria-hidden="true"></td>
-  </tr>
-</table>
-
-<h4 align="center">Databases</h4>
-
-<table align="center" cellpadding="8" cellspacing="8">
-  <tr>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/postgresql.svg" width="38" height="38" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/mysql.svg" width="38" height="38" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/mongodb.svg" width="38" height="38" alt="MongoDB" /><br /><sub><b>MongoDB</b></sub></td>
-  </tr>
-</table>
-
-<h4 align="center">Tools &amp; Platforms</h4>
-
-<table align="center" cellpadding="8" cellspacing="8">
-  <tr>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/git.svg" width="38" height="38" alt="Git" /><br /><sub><b>Git</b></sub></td>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/github.svg" width="38" height="38" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/postman.svg" width="38" height="38" alt="Postman" /><br /><sub><b>Postman</b></sub></td>
-    <td align="center" width="132" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/junit.svg" width="38" height="38" alt="JUnit" /><br /><sub><b>JUnit</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><span style="font-size:18px;">MOCK</span><br /><sub><b>Mockito</b></sub></td>
-    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/swagger.svg" width="38" height="38" alt="Swagger / OpenAPI" /><br /><sub><b>Swagger / OpenAPI</b></sub></td>
-    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/vercel.svg" width="38" height="38" alt="Vercel" /><br /><sub><b>Vercel</b></sub></td>
-    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/figma.svg" width="38" height="38" alt="Figma" /><br /><sub><b>Figma</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#24272e" style="border-radius:12px;"><img src="./assets/tech-logos/docker.svg" width="38" height="38" alt="Docker" /><br /><sub><b>Docker</b><br /><sup>learning</sup></sub></td>
-    <td aria-hidden="true"></td><td aria-hidden="true"></td><td aria-hidden="true"></td>
-  </tr>
-</table>
+<h4>🛠️ Tools &amp; Platforms</h4>
+<p align="center">
+  <span title="Git" aria-label="Git" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/git.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="GitHub" aria-label="GitHub" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/github.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="Postman" aria-label="Postman" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/postman.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="JUnit" aria-label="JUnit" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/junit.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="Mockito" aria-label="Mockito" style="display:inline-block; margin:6px; padding:12px 9px; border:1px solid #303743; border-radius:12px; background:#24272e; color:#e9edf2; font-size:15px; font-weight:700;">MOCK</span>
+  <span title="Swagger / OpenAPI" aria-label="Swagger / OpenAPI" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/swagger.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="Vercel" aria-label="Vercel" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/vercel.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="Figma" aria-label="Figma" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/figma.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+  <span title="Docker (learning)" aria-label="Docker, learning" style="display:inline-block; margin:6px; padding:10px; border:1px solid #303743; border-radius:12px; background:#24272e;"><img src="./assets/tech-logos/docker.svg" width="38" height="38" alt="" aria-hidden="true" /></span>
+</p>
 
 ### 🚀 Featured Projects
 
