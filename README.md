@@ -72,7 +72,7 @@ I'm **Dineth Dovindu**, a **BSc (Hons) Information Technology & Management under
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Metaminds-BankWebApp/bank-web-app-frontend"><img src="./assets/primecore.svg" alt="PrimeCore credit risk assessment platform" width="100%" /></a>
+      <a href="https://github.com/Metaminds-BankWebApp/bank-web-app-frontend"><img src="./assets/projects/primecore.png" alt="PrimeCore credit risk assessment platform" width="100%" /></a>
       <br />
       <b>PrimeCore — Credit Risk Platform</b><br />
       A team-built banking and credit-assessment application featuring credit insights, customer workflows and officer-facing tools. <i>Team leader &amp; full-stack contributor.</i>
@@ -80,7 +80,7 @@ I'm **Dineth Dovindu**, a **BSc (Hons) Information Technology & Management under
       <a href="https://github.com/Metaminds-BankWebApp/bank-web-app-frontend">Source Code</a> · <a href="https://bank-web-app-theta.vercel.app">Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/kdinethdovindu/React-job-tracker"><img src="./assets/careertrack.svg" alt="CareerTrack job application tracker" width="100%" /></a>
+      <a href="https://github.com/kdinethdovindu/React-job-tracker"><img src="./assets/projects/careertrack.png" alt="CareerTrack job application tracker" width="100%" /></a>
       <br />
       <b>CareerTrack — Job Application Tracker</b><br />
       A React application for managing applications, tracking statuses, searching and filtering opportunities, and persisting data with localStorage.
@@ -90,7 +90,7 @@ I'm **Dineth Dovindu**, a **BSc (Hons) Information Technology & Management under
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/PixelCraft-Cre8X/transport-2100"><img src="./assets/moveone.svg" alt="MOVEONE future transport concept" width="100%" /></a>
+      <a href="https://github.com/PixelCraft-Cre8X/transport-2100"><img src="./assets/projects/moveone.png" alt="MOVEONE future transport concept" width="100%" /></a>
       <br />
       <b>MOVEONE — Transportation in 2100</b><br />
       A collaborative Cre8X 3.0 concept featuring multimodal journey planning, a simulated booking flow and a PWA experience. <i>UI, PWA &amp; deployment contributor.</i>
@@ -98,7 +98,7 @@ I'm **Dineth Dovindu**, a **BSc (Hons) Information Technology & Management under
       <a href="https://github.com/PixelCraft-Cre8X/transport-2100">Source Code</a> · <a href="https://transport-2100-ashy.vercel.app/">Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/kdinethdovindu/Portfolio"><img src="./assets/portfolio.svg" alt="Personal portfolio website" width="100%" /></a>
+      <a href="https://github.com/kdinethdovindu/Portfolio"><img src="./assets/projects/portfolio.png" alt="Personal portfolio website" width="100%" /></a>
       <br />
       <b>Personal Portfolio — This Website</b><br />
       My responsive React and TypeScript portfolio with interactive motion, project showcases, certifications and a dedicated contact section.
